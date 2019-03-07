@@ -1,0 +1,8 @@
+- Сделать checkBoxNew, импортнуть в проект через R.id.New
+- Прописать его имя в strings
+- В SettingsActivity сделать:
+	* переменная isNew
+	* c += boolToInt (isNew)
+	* characters.add("New")
+- В GameActivity сделать:
+	* в ShowRole сделать imageview.setImageResource

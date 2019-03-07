@@ -1,0 +1,17 @@
+Общая информация: https://www.azfiles.ru/extension/apk.html
+
+
+===Windows===
+Чтобы открыть приложение, используя Windows, вы можете использовать:
+- Расширениe для Chrome "ARC Welder": http://goo.gl/o2G9gW
+- Программа "BlueStacks": http://bluestacks.com/ru/ (много весит!)
+
+
+===Linux===
+Чтобы открыть приложение, используя Linux, вы можете использовать:
+- Расширения для Chrome "chromeos-apk" и "ARChon": http://habrahabr.ru/post/253238/
+
+
+===Mac OS===
+Чтобы открыть приложение, используя Mac OS, вы можете использовать:
+- Расширения для Chrome "ARC Welder": http://goo.gl/o2G9gW
